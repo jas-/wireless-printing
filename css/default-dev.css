@@ -1,0 +1,101 @@
+strong {
+	color: #333;
+}
+#info {
+	padding-top: 1px;
+}
+#locations {
+	margin-bottom: 10px;
+}
+#locations h3 p{
+ font-size:155%;
+ text-align:center;
+ color:#fff;
+ text-shadow:#000 4px 4px 4px;
+ height: 1em;
+	filter: Shadow(Color=#000,Direction=135,Strength=4);
+}
+
+#locations .ui-accordion-header{
+ color:#990000;
+}
+
+#locations .ui-accordion-header:active{
+ color:#000;
+}
+
+#locations .ui-accordion-header:hover{
+ color:#000;
+}
+
+.middle{
+ vertical-align:middle;
+}
+
+#locations .ui-accordion-content .ui-accordion-content-active{
+
+}
+
+.ui-accordion{
+ width:550px;
+ padding:0px;
+ border:0px;
+}
+
+.checked{
+ z-index:10;
+ background:url(../images/icons/icon-ok.png) left no-repeat;
+}
+
+#locations .wjml_printers{
+ height:60px;
+ background:url(../images/buttons/marriotlibrary_small.jpg) center no-repeat;
+}
+
+#locations .col1{
+ width:50%;
+ float:left;
+}
+
+#locations .col2{
+ width:50%;
+ float:right;
+}
+
+#locations .rou_printers{
+ height: 60px;
+ background:url(../images/buttons/union_small.jpg) center no-repeat;
+}
+
+#locations .bsh_printers{
+ height:60px;
+ background:url(../images/buttons/hc_small.jpg) center no-repeat;
+}
+
+#zeFiles{
+ width:550px;
+}
+
+#zeFiles .col1{
+ width:50%;
+ float:left;
+}
+
+#zeFiles .col2{
+ width:50%;
+ float:right;
+}
+/*
+#zeFiles .col1{
+ width:50%;
+ float:left;
+}
+
+#zeFiles .col2{
+ width:50%;
+ float:right;
+}
+*/
+#send{
+ width:550px;
+}
